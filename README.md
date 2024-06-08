@@ -30,5 +30,5 @@ The file containes the sped up seismic data for the selected timeframe and any e
 If you would like to contribute to the project, you are more than welcome to do so.
 Any contributions are welcomed.
 If you find any issues, please open issues on Github.
-Pull requests are also very welcom.
+Pull requests are also very welcome.
 
