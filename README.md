@@ -20,7 +20,7 @@ To use the script, do the following:
 python audify.py -h
 ```
 This will print a help message to the console, explaining the various parameters of the program.
-as a simple example, we will an Mww6.2 earthquake that took place in the Prince Edward Islands Region, South of South Africa on 31 May 2024.
+as a simple example, we will sonify an Mww6.2 earthquake that took place in the Prince Edward Islands Region, South of South Africa on 31 May 2024.
 ```bash
 python audify.py -C iris -n GT -s BOSA -l "*" -c BHZ -S 160 -t "2024-05-31 15:30~2024-05-31 16:30" -f 0.5 -F 20.0 -o output.wav
 ```
