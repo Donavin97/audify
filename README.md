@@ -1,7 +1,7 @@
-# Audify: a seismic data sonifycation tool.
+# Audify: a seismic data sonification tool.
 ## Welcome to audify.
 Audify is a python program designed to make seismic data audible to the human ear.
-The process of audifycation or sonification involves infrasound or very low frequency data being turned into sound that we can hear.
+The process of audification or sonification involves infrasound or very low frequency data being turned into sound that we can hear.
 The process usually consists of speeding up the data by a given speed factor.
 E.G. A seismic trace with a sampling frequency of 100 HZ can be sped up 160 times to give it a new sampling rate of 16000 HZ or 16 KHZ.
 ## Installation.
